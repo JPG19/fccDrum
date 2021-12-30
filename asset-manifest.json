@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/fccdrum/static/css/main.8941b0db.css",
+    "main.js": "/fccdrum/static/js/main.04e90a7d.js",
+    "static/js/787.bdbc6061.chunk.js": "/fccdrum/static/js/787.bdbc6061.chunk.js",
+    "index.html": "/fccdrum/index.html",
+    "main.8941b0db.css.map": "/fccdrum/static/css/main.8941b0db.css.map",
+    "main.04e90a7d.js.map": "/fccdrum/static/js/main.04e90a7d.js.map",
+    "787.bdbc6061.chunk.js.map": "/fccdrum/static/js/787.bdbc6061.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8941b0db.css",
+    "static/js/main.04e90a7d.js"
+  ]
+}
